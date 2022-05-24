@@ -1,2 +1,4 @@
 hello
 xin chào
+
+new 1
