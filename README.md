@@ -1,10 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> hello
 # test1
 1
 2
 3
 4
 5
+<<<<<<< HEAD
 6
 new2
 new3
@@ -76,3 +80,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 >>>>>>> main
+=======
+<<<<<<< HEAD
+=======
+6
+new2
+<<<<<<< HEAD
+>>>>>>> new1
+=======
+new3
+>>>>>>> new1
+>>>>>>> hello
